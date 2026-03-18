@@ -24,6 +24,7 @@ public class MultithreadThing extends Thread {
             } catch (InterruptedException exception) {
 
             }
+
         }
     }
 }
